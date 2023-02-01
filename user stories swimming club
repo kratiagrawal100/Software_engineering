@@ -1,0 +1,55 @@
+Swimming club system
+
+USER
+As a user, I want to register so that I can login to website.
+As a user , I want to login on website so that I can utilise facilities like appointment, scheduling efficiently etc.
+As a user, I want to update my details so that I can keep my information up to date.
+As a User, I want to Book slot for swimming test so that I can apply for sessions/membership.
+As a User,  I want to Reschedule test booking so that I can give test some other day.
+As a User,  I want to Apply for membership so that I can avail membership benefits.
+As a User,  I want to Apply for single session so that I can swim without membership.
+As a User,  I want to Cancel membership so that I can discontinue membership.
+As a User,  I want to Cancel session so that I can mark myself unavailable for the session.
+As a User,  I want to Reschedule session so that I can use it for another day/slot.
+As a user,  I want to view trainer profiles so that I can choose trainer.
+As a User,  I want to Choose trainer so that I can decide from whom I want to get trained.
+As a User,  I want to Change trainer so that I can get trained from another trainer.
+As a User,  I want to See reviews for a trainer so that I can know customer feedback about trainer.
+As a User,  I want to view Special offers so that I can avail discounts/benefits.
+As a User,  I want to Choose timing slot so that I can get slot as per my availability.
+As a User,  I want to Choose training category so that I can get appropriate level of training.
+As a User,  I want to Renew membership so that I can continue training without giving test again.
+As a User,  I want to Provide review so that other customers can know about my experience.
+As a User,  I want to get Notification before my slot time as reminder so that I don’t forget my booking.
+As a user , I want to see instructions from trainer before session so that I can be prepared.
+
+
+RECEPTIONIST
+As a receptionist, I want to login so that I can manage user bookings etc.
+As a receptionist , I want to onboard user so that offline user can be registered.
+As a receptionist, I want to book service so that I can manage user bookings when user came without booking.
+As a receptionist I want to see user details so that I can use them when required.
+As a receptionist, I want to contact customer so that I can manage user booking ,timing etc.
+As a receptionist, I want to generate bill so that I can take payment from customers.
+As a receptionist, I want to take feedback so that I can provide it to management.
+As a receptionist, I want to collect payment so that customer can pay dues.
+As a receptionist, I want to mark status for session as delivered / no show so that user can track their service history.
+As a receptionist, I want to view staff availability so that I can book onsite sessions.
+As a receptionist, I want to view slot availability so that I can book onsite sessions.
+
+OWNER
+As an owner, I want to manage staff schedule so that I can manage the sessions booking.
+As an owner, I want to handle pricing for service/staff so that I can manage business.
+As an owner I want to approve leaves so that staff can take leaves when required.
+As an owner , I want to reject leaves so that I can ensure enough staff on site.
+As an owner, I want to onboard new staff so that I can employ new people
+As an owner, I want to deboard current staff so that I can delete staff profile.
+As an owner/staff, I want to reply on feedback of customers so that I can acknowledge their feedbacks.
+
+STAFF
+As a staff, I want to get notification when customer arrived so that customer don’t have to wait.
+As a staff, I want to get notified if customer cancel the booking so that I can manage my time.
+As a staff, I want to request for rescheduling /leaves so that I can apply for leaves.
+As a staff, I want to see customer details who are registered under me so that I can provide proper training, contact them if needed, provide instructions.
+As a staff/trainer, I want to update my profile details so that customers can view updated profile.
+
